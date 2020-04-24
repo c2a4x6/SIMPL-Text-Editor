@@ -1,1 +1,3 @@
-# SIMPL-Text-Editor
+# SIMPL Text Editor
+ The SIMPL Text Editor is a basic text editor built in Java, and I originally started this project to learn the basics of Java's built-in GUI libraries along with how Java handles file management. I decided that while I was at it, I might as well use this small project to get used to git as well as Github. 
+ Currently, the text editor has the ability to support different fonts, font sizes, and the ability to bold the text. The text editor also has a rudimentary encryption ability, (currently there is only support for caesar cipher encryption, but I plan to add more types) however it is currently very jainky and has some issues during repeated encryption/decryption as well as when you shift the key. 
